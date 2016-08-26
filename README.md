@@ -15,4 +15,4 @@ This repository stores examples and demos using some of the resources avaiable i
 * Recommendations API
 
 ### Machine Learning
-* Regression
+* Linear Regression
