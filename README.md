@@ -1,6 +1,6 @@
 # AzureIntelligence
 
-This repository stores examples and demos using some of the resources avaiable in Azure for Computacional Intelligence.
+This repository stores examples and demos using some of the resources available in Azure for Computacional Intelligence.
 
 
 ## Avaiable Demos
